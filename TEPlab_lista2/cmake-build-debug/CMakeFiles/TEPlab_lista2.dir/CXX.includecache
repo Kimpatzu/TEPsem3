@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CPP_Projekty/TEPlab_lista2/CTable.cpp
+iostream
+-
+CTable.h
+D:/CPP_Projekty/TEPlab_lista2/CTable.h
+
+D:/CPP_Projekty/TEPlab_lista2/CTable.h
+
+D:/CPP_Projekty/TEPlab_lista2/main.cpp
+iostream
+-
+CTable.h
+D:/CPP_Projekty/TEPlab_lista2/CTable.h
+

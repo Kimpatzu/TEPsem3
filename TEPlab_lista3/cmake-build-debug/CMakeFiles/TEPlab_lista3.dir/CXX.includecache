@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CPP_Projekty/TEPlab_lista3/CNodeDynamic.h
+vector
+-
+
+D:/CPP_Projekty/TEPlab_lista3/CTreeDynamic.cpp
+CTreeDynamic.h
+D:/CPP_Projekty/TEPlab_lista3/CTreeDynamic.h
+CNodeDynamic.h
+D:/CPP_Projekty/TEPlab_lista3/CNodeDynamic.h
+stdlib.h
+-
+
+D:/CPP_Projekty/TEPlab_lista3/CTreeDynamic.h
+CNodeDynamic.h
+D:/CPP_Projekty/TEPlab_lista3/CNodeDynamic.h
+

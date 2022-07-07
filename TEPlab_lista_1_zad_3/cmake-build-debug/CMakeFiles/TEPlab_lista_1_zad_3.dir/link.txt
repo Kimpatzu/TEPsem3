@@ -1,0 +1,3 @@
+"D:\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\TEPlab_lista_1_zad_3.dir/objects.a
+D:\Clion\mingw32\bin\ar.exe cr CMakeFiles\TEPlab_lista_1_zad_3.dir/objects.a @CMakeFiles\TEPlab_lista_1_zad_3.dir\objects1.rsp
+D:\Clion\mingw32\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\TEPlab_lista_1_zad_3.dir/objects.a -Wl,--no-whole-archive -o TEPlab_lista_1_zad_3.exe -Wl,--out-implib,libTEPlab_lista_1_zad_3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TEPlab_lista_1_zad_3.dir\linklibs.rsp

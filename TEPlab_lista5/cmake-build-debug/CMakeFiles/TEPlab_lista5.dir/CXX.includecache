@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CPP_Projekty/TEPlab_lista5/CTab.cpp
+iostream
+-
+CTab.h
+D:/CPP_Projekty/TEPlab_lista5/CTab.h
+
+D:/CPP_Projekty/TEPlab_lista5/CTab.h
+
